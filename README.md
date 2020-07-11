@@ -3,4 +3,4 @@ A repository containing fundamental codes for gaming. Multi-game, multi-develope
 
 ## Table of Contents
 
-* ![Blizzard](https://www.blizzard.com/)
+* [Blizzard](https://www.blizzard.com/en-us/)
