@@ -1,13 +1,23 @@
-# grs-computer-gaming
-A repository containing fundamental codes for gaming. Multi-game, multi-developer, APIs/Scripts and Macros, plus many more.
+# World of Warcraft Addons
 
-## Table of Contents
+You can create a WoW Add-On very simply. Start creating your first Add-On by navigating [here].
 
-* [Blizzard](https://www.blizzard.com/en-us/)
-    + Mods
-        = Macros
-        = Addons
-    
+Once you are done creating the Add-On script and name, you can download it, and put it into your interface/addons folder.
+
+
+## Example _AddOns_ directory PATH.
+
+> C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns
+
+## Statically set buffs/debuffs to position in relation to PlayerFrame
+
+```macro
+function Movebuff() BuffFrame:ClearAllPoints()
+BuffFrame:SetScale(1.1)
+BuffFrame:SetPoint"CENTER",PlayerFrame,"CENTER",950,80) end
+hooksecurefunc"UIParent_UpdateTopFramePositions",Movebuff)
+Movebuff()
+```
 
 ## UnitFrames colored by class
 
