@@ -1,6 +1,6 @@
 # Luxthos Imports
 
-Full credit to Luxthos for providing these, he's an excellent [Twitch](twitch.tv/luxthos). Here's a [link](https://wago.io/rJPLv-Ar7) to the download page.
+Full credit to Luxthos for providing these, he's an excellent [Twitch](https://www.twitch.tv/luxthos) WoW streamer. Here's a [link](https://wago.io/rJPLv-Ar7) to the download page.
 
 ## Mage BFA Rotations
 
