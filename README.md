@@ -5,8 +5,7 @@ A repository containing fundamental codes for gaming. Multi-game, multi-develope
 
 * [Blizzard](https://www.blizzard.com/en-us/)
     + Mods
-        = Macros
-        = Addons
+        - Macros
+        - Addons
     
-
 
