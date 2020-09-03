@@ -1,5 +1,7 @@
 # Utilize CURL for API Calls
 
+
+
 ## Examples
 
 ```
