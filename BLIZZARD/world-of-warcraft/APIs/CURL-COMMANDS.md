@@ -4,6 +4,7 @@
 
 ## Examples
 
+
 ```
 curl -u {client_id}:{client_secret} -d grant_type=client_credentials https://us.battle.net/oauth/token
 ```
